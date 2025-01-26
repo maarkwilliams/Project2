@@ -35,6 +35,20 @@ body {
     gap: 1.5rem; 
 }
 
+.info {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    width: 100%; 
+    margin-bottom: 20px;
+    padding: 0; /
+  }
+  
+  #topic, #current-score {
+    margin: 0; 
+    padding: 0; 
+  }
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
