@@ -1,0 +1,122 @@
+[
+    {
+      "topic": "General Knowledge",
+      "question": "How many time zones are there in Russia?",
+      "options": ["11", "9", "10", "8"],
+      "answer": "11"
+    },
+    {
+      "topic": "General Knowledge",
+      "question": "What’s the national flower of Japan?",
+      "options": ["Cherry blossom", "Rose", "Orchid", "Dahlia"],
+      "answer": "Cherry blossom"
+    },
+    {
+      "topic": "General Knowledge",
+      "question": "How many faces does a Dodecahedron have?",
+      "options": ["10", "12", "16", "16"],
+      "answer": "12"
+    },
+    {
+      "topic": "General Knowledge",
+      "question": "How many dots appear on a pair of dice?",
+      "options": ["36", "42", "48", "52"],
+      "answer": "42"
+    },
+    {
+      "topic": "General Knowledge",
+      "question": "What is the world’s largest retailer?",
+      "options": ["Walmart", "Target", "Costco", "Tesco"],
+      "answer": "Walmart"
+    },
+    {
+      "topic": "Geography",
+      "question": "What’s the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Calgary"],
+      "answer": "Ottawa"
+    },
+    {
+      "topic": "Geography",
+      "question": "What’s the smallest country in the world?",
+      "options": ["Monaco", "San Marino", "The Vatican", "Malta"],
+      "answer": "The Vatican"
+    },
+    {
+      "topic": "Geography",
+      "question": "What is the hottest recorded temperature on Earth?",
+      "options": ["44.8°C", "51.3°C", "58°C", "56.7°C"],
+      "answer": "56.7°C"
+    },
+    {
+      "topic": "Geography",
+      "question": "Where is Christ the Redeemer located?",
+      "options": ["Argentina", "Brazil", "Jordan", "Columbia"],
+      "answer": "Brazil"
+    },
+    {
+      "topic": "Geography",
+      "question": "What ocean is the largest and deepest?",
+      "options": ["The Arctic Ocean", "The Indian Ocean", "The Atlantic Ocean", "The Pacific Ocean"],
+      "answer": "The Pacific Ocean"
+    },
+    {
+      "topic": "Sports",
+      "question": "Which football team is known as ‘The Red Devils’?",
+      "options": ["Manchester United", "Liverpool", "Arsenal", "Newcastle"],
+      "answer": "Manchester United"
+    },
+    {
+      "topic": "Sports",
+      "question": "What was the clothing company Nike originally called?",
+      "options": ["Oregon Athletics", "Blue Ribbon Sports", "Victory Shoes", "Apollo Sporting Goods"],
+      "answer": "Blue Ribbon Sports"
+    },
+    {
+      "topic": "Sports",
+      "question": "Where was the first modern Olympic Games held?",
+      "options": ["Rome", "Berlin", "Athens", "Madrid"],
+      "answer": "Athens"
+    },
+    {
+      "topic": "Sports",
+      "question": "Which football team has won the most UEFA Champions League titles?",
+      "options": ["FC Barcelona", "Bayern Munich", "AC Milan", "Real Madrid"],
+      "answer": "Real Madrid"
+    },
+    {
+      "topic": "Sports",
+      "question": "Who has the most passing yards in NFL history?",
+      "options": ["Tom Brady", "Drew Brees", "Peyton Manning", "Brett Favre"],
+      "answer": "Tom Brady"
+    },
+    {
+      "topic": "Music",
+      "question": "When was Spotify founded?",
+      "options": ["1999", "2003", "2004", "2006"],
+      "answer": "2006"
+    },
+    {
+      "topic": "Music",
+      "question": "What city do The Beatles come from?",
+      "options": ["London", "Liverpool", "Manchester", "Newcastle"],
+      "answer": "Liverpool"
+    },
+    {
+      "topic": "Music",
+      "question": "What year did Elvis Presley die?",
+      "options": ["1978", "1979", "1977", "1975"],
+      "answer": "1977"
+    },
+    {
+      "topic": "Entertainment",
+      "question": "Name Pixar’s first feature-length movie?",
+      "options": ["A Bug's Life", "Toy Story", "Monsters, Inc", "Finding Nemo"],
+      "answer": "Toy Story"
+    },
+    {
+      "topic": "Entertainment",
+      "question": "Name Disney’s first film?",
+      "options": ["Pinocchio", "Fantasia", "Dumbo", "Snow White"],
+      "answer": "Snow White"
+    }
+  ]  
