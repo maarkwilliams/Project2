@@ -12,6 +12,17 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
+    flex-direction: column;
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo-container img {
+    width: 500px;
+    height: auto;
 }
 
 .container {
@@ -73,16 +84,8 @@ body {
     width: 90%;
     max-width: 600px;
     border-radius: 10px;
-    margin: 100px auto 0;
+    margin: 10px auto 0;
     padding: 30px;
-}
-
-.main-background h1 {
-    font-size: 1.5rem;
-    color:#000;
-    font-weight: 600;
-    border-bottom: 1ox solid #333;
-    padding-bottom: 30px;
 }
 
 .main-quiz {
