@@ -41,7 +41,7 @@ body {
     align-items: center; 
     width: 100%; 
     margin-bottom: 20px;
-    padding: 0; /
+    padding: 0;
   }
   
   #topic, #current-score {
@@ -78,7 +78,7 @@ body {
 }
 
 .main-background h1 {
-    font-size: 25px;
+    font-size: 1.5rem;
     color:#000;
     font-weight: 600;
     border-bottom: 1ox solid #333;
@@ -90,7 +90,7 @@ body {
 }
 
 .main-quiz h2 {
-    font-size: 18px;
+    font-size: 1.2rem;
     color: #000;
     font-weight: 600;
 }
@@ -112,4 +112,137 @@ body {
 .button:hover {
     background: #222;
     color: #fff;
+}
+
+/* High Scores Page Styling */
+#content-highscore {
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+#finalscore {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007BFF;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+#highscore-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#highscore-list li {
+    background: #f8f9fa;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+#highscore-list li:hover {
+    background: #e9ecef;
+    transform: scale(1.02);
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+/* Smooth Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* end page */
+#content-end {
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+#content-end h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007BFF;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+#username-section {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#username-section label {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+#username {
+    width: 80%;
+    max-width: 300px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #007BFF;
+    border-radius: 6px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+#username:focus {
+    outline: none;
+    border-color: #0056b3;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+}
+
+#save-score-btn {
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#final-message {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #28a745;
+    margin-top: 15px;
+}
+
+.btn {
+    margin-top: 15px;
 }
