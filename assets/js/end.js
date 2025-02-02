@@ -18,7 +18,7 @@ document.getElementById("save-score-btn").addEventListener("click", function () 
 // Save the high score in localStorage
         saveHighScore(username, score);
 
-        window.location.href = "/highscore.html";
+        window.location.href = "highscore.html";
     } else {
         window.alert("Please enter a username.");
     }

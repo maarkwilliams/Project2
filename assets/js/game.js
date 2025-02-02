@@ -32,7 +32,7 @@ function loadRandomQuestion() {
     if (questions.length === 0 || currentQuestionIndex >= totalQuestions) {
 // Save the final score
         localStorage.setItem("finalScore", score);
-        window.location.href = "/end.html";
+        window.location.href = "end.html";
         return;
     }
 
