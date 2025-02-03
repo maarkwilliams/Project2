@@ -61,7 +61,7 @@ I used Lighthouse in Chrome Developer Tools to evaluate the website's performanc
 
 ![highscore.html](testing/lighthouse/highscoredesktop-lh.png)
 
-![404.html](testing/lighthouse/
+![404.html](testing/lighthouse/404desktop-lh.png)
 
 ### Mobile Results
 
@@ -73,7 +73,7 @@ I used Lighthouse in Chrome Developer Tools to evaluate the website's performanc
 
 ![highscore.html](testing/lighthouse/highscoremobile-lh.png)
 
-![404.html](testing/lighthouse/
+![404.html](testing/lighthouse/404mobile-lh.png)
 
 - - -
 

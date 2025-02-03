@@ -139,7 +139,7 @@ The user can access this page by either clicking the button on the homepage or a
 
 The 404 error page displays text informing the user that there has been an error. Even though the user is unable to navigate to the page they want, the custom error page will improve their overall experience.
 
-![The 404 error page](documentation/404page.png). ?????
+![The 404 error page](documentation/404page.png)
 
 #### Future Implementations
 
