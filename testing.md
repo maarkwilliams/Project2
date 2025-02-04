@@ -77,6 +77,10 @@ I used Lighthouse in Chrome Developer Tools to evaluate the website's performanc
 
 - - -
 
+## MANUAL TESTING
+
+### Testing User Stories
+
 `First Time Visitors`
 |  Goals | How are they achieved? |
 | :--- | :--- |

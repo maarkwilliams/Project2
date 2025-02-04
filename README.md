@@ -94,7 +94,7 @@ Wireframes were created for mobile, tablet and desktop using balsamiq.
 
 ![Home Page](documentation/wireframes/homepage.png)
 ![Game Page](documentation/wireframes/gamepage.png)
-![End Page](documentation/wireframes/endpage.png)
+![End Page](documentation/wireframes/endgame.png)
 ![Highscores Page](documentation/wireframes/highscorepage.png)
 
 ### Features
@@ -195,7 +195,7 @@ The site is deployed using GitHub Pages - [Hive Fitness](link here).
 To Deploy the site using GitHub Pages:
 
 1. Login (or signup) to Github.
-2. Go to the repository for this project, [maarkwilliams/Project2](https://maarkwilliams.github.io/Project2/).
+2. Go to the repository for this project: [maarkwilliams/Project2](https://github.com/maarkwilliams/Project2).
 3. Click the settings button.
 4. Select pages in the left hand navigation menu.
 5. From the source dropdown select main branch and press save.
@@ -208,7 +208,7 @@ To Deploy the site using GitHub Pages:
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [maarkwilliams/Project2](https://maarkwilliams.github.io/Project2/).
+2. Go to the repository for this project: [maarkwilliams/Project2](https://github.com/maarkwilliams/Project2).
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -216,7 +216,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [maarkwilliams/Project2](https://maarkwilliams.github.io/Project2/).
+2. Go to the repository for this project: [maarkwilliams/Project2](https://github.com/maarkwilliams/Project2).
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
