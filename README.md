@@ -178,11 +178,9 @@ Html, CSS & JavaScript
 
 * [GitPod](https://gitpod.io/) - IDE used to create the site.
 
-* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
-
 * [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-* [Favicon.io](https://favicon.io/) To create favicons.
+* [Coolors](https://coolors.co/) - To help pick my colour choices.
 
 * [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
@@ -248,7 +246,11 @@ No known bugs remain on the site.
 
 ### Code Used
 
-I used???
+I used [this video](https://devdocs.io/javascript/) when struggling with differnt issues such as math.
+
+Since the JavaScript modules in the Code Institute Diploma didn’t cover local storage, I conducted my own research to implement the high scores section on my site. I found these two videos from [Open JavaScript](https://www.youtube.com/watch?v=-ZRDZyUjEEI) and [Redhouane Aouadi](https://www.youtube.com/watch?v=fYTTUBa-lPc) really helpful when trying to implement local storage.
+
+I used [this video](https://www.youtube.com/watch?v=iiADhChRriM&t=170s) to help me gain a better understanding on how json files and JavaScript can work together.
 
 ### Content
 

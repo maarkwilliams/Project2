@@ -41,11 +41,11 @@ To ensure responsiveness across various screen sizes and devices, I tested each 
 
 ### JavaScript Validator
 
-[jslint](https://jslint.com/) was used to validate the JavaScript.
+[Jslint](https://jslint.com/) was used to validate the JavaScript.
 
-* [game.js](testing/jshint/jshint-javascript.png) - Passed.
-* [end.js](testing/jshint/jshint-game.png) - Passed with one warning. Async functions are only available in ES8. It also stated that there are 4 unused variables, however these are being used.
-* [highscore.js](testing/ ????
+* [game.js](testing/jslint/game-jslint.png) - No errors.
+* [end.js](testing/jslint/end-jslint.png) - No errors
+* [highscore.js](testing/jslint/highscore-jslint.png) - No errors
 
 ### Lighthouse
 
