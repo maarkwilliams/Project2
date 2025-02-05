@@ -10,6 +10,7 @@ Visit the deployed site here: [The Trivia Trap](https://maarkwilliams.github.io/
 
 * [AUTOMATED TESTING](#automated-testing)
   * [W3C Validator](#w3c-validator)
+  * [JavaScript Validator](#javascript-validator)
   * [Lighthouse](#lighthouse)
 * [MANUAL TESTING](#manual-testing)
   * [Testing User Stories](#testing-user-stories)
@@ -36,8 +37,6 @@ To ensure responsiveness across various screen sizes and devices, I tested each 
 * [404.html](testing/w3/404test.png) - Passed.
 
 * [style.css](testing/w3/styletest.png) - Passed.
-
-- - -
 
 ### JavaScript Validator
 

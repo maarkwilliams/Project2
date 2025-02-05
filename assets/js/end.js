@@ -21,7 +21,11 @@ document.getElementById("save-score-btn").addEventListener(
             saveHighScore(username, score);
             window.location.href = "highscore.html";
         } else {
-            window.alert("Please enter a username.");
+            Swal.fire({
+                icon: "error",
+                title: "Oops...",
+                text: "Please enter a username before saving your score!",
+            });
         }
     }
 );
@@ -31,7 +35,7 @@ function saveHighScore(username, score) {
     const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
     highScores.push({score, username});
 
-    // Sort by score in descending order
+// Sort by score in descending order
     highScores.sort(function (a, b) {
         return b.score - a.score;
     });

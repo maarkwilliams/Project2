@@ -49,11 +49,13 @@ function loadRandomQuestion() {
     document.getElementById("topic").textContent = currentQuestion.topic;
     document.getElementById("question").textContent = currentQuestion.question;
 
+    // Update progress tracker
+    document.getElementById("progress").textContent = `Question ${currentQuestionIndex + 1} of ${totalQuestions}`;
+
 // Get the answer buttons and update their text
     buttons = document.querySelectorAll(".button");
     buttons.forEach(function (button, index) {
         button.textContent = currentQuestion.options[index];
-
         button.style.backgroundColor = "";
         button.style.pointerEvents = "auto";
 
@@ -82,7 +84,7 @@ function checkAnswer(selectedButton, correctAnswer) {
         score += 1;
     } else {
         selectedButton.style.backgroundColor = "red";
-
+        
 // Find and highlight the correct answer
         buttons.forEach(function (button) {
             if (button.textContent === correctAnswer) {
@@ -93,7 +95,7 @@ function checkAnswer(selectedButton, correctAnswer) {
 
     currentQuestionIndex += 1;
 
-    // Add loading time for next question
+// Add loading time for next question
     setTimeout(loadRandomQuestion, 1000);
 }
 
