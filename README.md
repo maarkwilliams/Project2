@@ -172,6 +172,8 @@ Html, CSS & JavaScript
 
 * [Balsamiq](https://balsamiq.com/) - To create wireframes.
 
+* [SweetAlert2](https://sweetalert2.github.io/) - A JavaScript Library.
+
 * [Git](https://git-scm.com/) - For version control.
 
 * [Github](https://github.com/) - To save and store the files for the website.
